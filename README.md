@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tom
 
-<!--
-**xuhao246/xuhao246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a scientific research background, currently building portfolio projects in Excel, SQL, Python, Tableau, and workflow analytics.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel data cleaning and Power Query
+- Tableau dashboard development
+- Python exploratory data analysis with pandas and matplotlib
+- SQL for data analysis
+- Workflow and operations analytics
+
+## Portfolio Projects
+
+Projects will be added here as I complete them.
+
+## Background
+
+I have experience working with research operations data, workflow tracking, and Airtable-based systems at the Acceleration Consortium. I am now expanding my portfolio with traditional data analytics tools including Excel, SQL, Python, and Tableau.
