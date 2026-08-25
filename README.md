@@ -6,6 +6,16 @@ I'm currently building portfolio projects with Excel, SQL, Python, Tableau, Airt
 
 ## Featured project
 
+### [Superstore Sales Analysis — Excel & Tableau](https://github.com/xuhao246/superstore_sales_analysis_visualization_tableau)
+
+End-to-end data analytics project combining Excel/Power Query data cleaning with Tableau visualization and dashboard design. I cleaned and validated a 9,800-row retail sales dataset, built calculated metrics and interactive analyses, and created three dashboards covering sales performance, top sales drivers, and operational activity.
+
+Key work included dynamic Top 10 rankings, KPI design, monthly trend analysis, customer activity analysis, and shipping-time analysis, with documentation of business questions, calculated fields, design decisions, insights, and data limitations.
+
+Portfolio snapshot from Aug 25, 2026: 9800 records.
+
+**Tools:** Excel, Power Query, Tableau, GitHub
+
 ### [Workout Tracker](https://github.com/xuhao246/airtable-workout-tracker)
 
 An Airtable decision-support system that helps me choose exercises based on muscle recovery, recency, available equipment, previous performance, and badminton priorities.
