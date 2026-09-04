@@ -4,6 +4,8 @@ I'm a data analyst with a background in scientific research and research operati
 
 I'm currently building portfolio projects with Excel, SQL, Python, Tableau, Airtable, and workflow automation.
 
+My LinkedIn: www.linkedin.com/in/hao-xu-phd-9b701b232
+
 ## Featured project
 
 ### [Superstore Sales Analysis — Excel & Tableau](https://github.com/xuhao246/superstore_sales_analysis_visualization_tableau)
