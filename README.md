@@ -1,10 +1,29 @@
-# Hi, I'm Tom
+## Hi, I'm Tom 👋
 
-I'm a data analyst with a background in scientific research and research operations. I enjoy turning scattered records and recurring decisions into structured data, useful analysis, and practical workflows.
+I'm a Data Analyst at the University of Toronto's Acceleration Consortium, with a Ph.D. in Chemistry and a background in scientific research.
 
-I'm currently building portfolio projects with Excel, SQL, Python, Tableau, Airtable, and workflow automation.
+I specialize in transforming complex data and fragmented business processes into reliable analytics, automated workflows, and actionable insights. My work spans relational database design, KPI reporting, business intelligence, and AI-assisted automation.
 
-My LinkedIn: www.linkedin.com/in/hao-xu-phd-9b701b232
+This GitHub showcases my hands-on projects in SQL, BigQuery, Excel, Tableau, Python, and workflow automation.
+
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/hao-xu-phd-9b701b232)
+
+## Brazilian E-Commerce Analysis — SQL & BigQuery
+
+An end-to-end SQL analytics project using Google's BigQuery to investigate nearly **1.5 million source records across 9 relational tables** from the Brazilian Olist e-commerce dataset. I used SQL to validate data integrity, define business metrics, and analyze revenue, delivery performance, customer behavior, and seller concentration.
+
+**Key work included:**
+- Validated primary and foreign keys, table relationships, join cardinalities, and data-quality exceptions.
+- Analyzed 7 business questions covering revenue trends, delivery performance, customer geography, product categories, seller concentration, review scores, and repeat purchasing.
+- Identified key commercial and operational insights, including:
+  - Top 10% of sellers generated approximately **67% of merchandise revenue**.
+  - Late deliveries averaged **2.27/5** in customer review scores, compared with **4.29/5** for early deliveries.
+  - Only **3.0% of eligible customers** made repeat purchases.
+- Documented analytical methodology, metric definitions, SQL queries, findings, and data limitations to support reproducibility.
+
+**Dataset:** Olist Brazilian E-Commerce Dataset | ~1.5 million source records | 9 relational tables
+
+**Tools:** SQL · Google BigQuery · GitHub
 
 ## Featured project
 
@@ -34,11 +53,11 @@ Portfolio snapshot from July 19, 2026: 71 exercises and 441 historical sessions.
 
 ## Current focus
 
-- Excel data cleaning and Power Query
-- SQL for data analysis
-- Python exploratory analysis with pandas and matplotlib
-- Tableau dashboard development
-- Data modeling, workflow analysis, and automation
+- **SQL & BigQuery:** Relational queries, joins, CTEs, data validation, and business analytics
+- **Python:** Exploratory data analysis with pandas, NumPy, and Matplotlib
+- **Tableau & Excel:** Data visualization, dashboard development, Power Query, and KPI reporting
+- **Data Modeling:** Relational database design, data integrity, and analytical data structures
+- **Automation:** Airtable, Zapier, Slack integrations, and AI-assisted business workflows
 
 ## Background
 
