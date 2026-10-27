@@ -1,4 +1,4 @@
-# Hi, I'm Tom 👋
+# Hi, I'm Hao(Tom) Xu 👋
 
 I'm a Data Analyst at the University of Toronto's Acceleration Consortium, with a Ph.D. in Chemistry and a background in scientific research.
 
